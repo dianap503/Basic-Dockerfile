@@ -18,5 +18,5 @@ sudo docker build -t hello-captain .
 5. Run the container
 ```bash
 sudo docker run hello-captain
-```bash
+```
    
